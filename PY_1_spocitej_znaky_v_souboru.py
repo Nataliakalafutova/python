@@ -18,7 +18,7 @@ with open("netflix_imdb_test.tsv", mode="r", encoding="utf8") as file:
 pocet_znakov = 0
 for nazov in moj_seznam:
     pocet_znakov = pocet_znakov + len(nazov)
-print(f" Počet znakov je {pocet_znakov}.")
+print(f" Počet znakov v souboru je {pocet_znakov}.")
 
 
 
