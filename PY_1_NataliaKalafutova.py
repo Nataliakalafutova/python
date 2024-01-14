@@ -1,5 +1,5 @@
 
-#ukol1:
+#Zadanie ukolu1:
 #Spočítej celkový počet všech znaků (včetně mezer, netisknutelných a neviditelných znaků) ve sloupci PRIMARYTITLE
 #ze souboru netflix_imdb_test.tsv.
 #Výsledek má být: 7650. 
